@@ -1,0 +1,12 @@
+{
+  "name": "com.truongnguyentungduy.hierarchy-2",
+  "version": "1.2.5",
+  "displayName": "Hierarchy 2",
+  "description": "Editor extension to improve hierarchy window. Makes the hierarchy more detail, but still clean and easy to organize.",
+  "unity": "2021.3",
+  "type": "tool",
+  "keywords": [
+    "Editor",
+    "Hierarchy"
+  ]
+}
